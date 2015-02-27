@@ -1,4 +1,4 @@
-package de.elbelife.metric;
+package de.elbelife.metric.dynamic;
 
 import java.util.ArrayList;
 import java.util.HashMap;
